@@ -32,14 +32,14 @@ Then execute:
 
 ```sh
 yarn build
-cd ..
 ```
 
 This will compile the frontend code and assets to the resources folder.
 
 ## Running
 
+From the root folder execute:
+
 ```sh
-cd ..
 neu run
 ```
